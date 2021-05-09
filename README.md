@@ -34,12 +34,12 @@
 
     if Yes == "Y" or "y":
 
-    print("This is your BMI: ")
+        print("This is your BMI: ")
     
-    print(BMI)
+        print(BMI)
     
-    print("Good Bye!")
+        print("Good Bye!")
     
     else:
 
-    print ("Good Bye then!")
+        print ("Good Bye then!")
