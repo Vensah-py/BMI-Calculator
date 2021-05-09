@@ -1,5 +1,3 @@
-# BMI-Calculator
-
 Mass = float ( input ("Enter your mass in kilograms "))
 
 Height = float ( input ("Enter your height in metres "))
@@ -31,4 +29,3 @@ if Yes == "Y" or "y":
     print("Good Bye!")
 else:
     print ("Good Bye then!")
-
